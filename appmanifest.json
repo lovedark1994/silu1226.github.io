@@ -1,0 +1,10 @@
+{
+	"name": "1226細流",
+	"short_name": "1226細流",
+	"description": "test",
+	"start_url": "index.html",
+	"display": "fullscreen",
+	"orientation": "portrait",
+	"background_color": "#ffffff",
+	"icons": []
+}
